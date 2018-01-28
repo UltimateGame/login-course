@@ -6,6 +6,6 @@
 </head>
 
 <body>
-	 <?php echo '<p>Hello my lovely world this is my first git project.</p>'; ?>
+	 <?php echo '<p>Well it is all now finally working.</p>'; ?>
 </body>
 </html>
