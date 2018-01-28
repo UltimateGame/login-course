@@ -6,6 +6,6 @@
 </head>
 
 <body>
-	 <?php echo '<p>Well it is all now finally working.</p>'; ?>
+	 <?php echo '<p>Well it is all now finally working. Let see it if goes to git repository</p>'; ?>
 </body>
 </html>
