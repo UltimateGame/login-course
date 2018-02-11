@@ -7,21 +7,13 @@
 <meta name="robots" contents="follow">
     
 <title>Index</title>
-<<<<<<< HEAD
+<head>>
     
     <base href="/" />
     <!-- UIkit CSS -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.39/css/uikit.min.css" />    
-=======
-    <base href="/" />
-    <!-- UIkit CSS -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.39/css/uikit.min.css" />
 
-<!-- UIkit JS -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.39/js/uikit.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.39/js/uikit-icons.min.js"></script>
->>>>>>> 393cd35910814ad36f57d5bcc7a6949004627861
-</head>
+ </head>
 
 <body>
        
@@ -44,7 +36,7 @@
     </div>
                     
     <div class="uk-margin">
-        <button class="uk-button uk-button-default" type="submit">Login</button>
+        <button class="uk-button uk-button-default" type="submit">Login Button</button>
     </div>                
 
 </form>
@@ -60,3 +52,4 @@
 <script src="http://code.jquery.com/jquery-3.3.1.js"></script>                                                                                              
 </body>
 </html>
+    
