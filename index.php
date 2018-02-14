@@ -2,12 +2,12 @@
 <html>
 <head>
 <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="robots" contents="follow">
-    
-<title>Index</title>
-<head>>
+<meta name="robots" content="follow">
+<title>Page Title</title>
+
+<head>
     
     <base href="/" />
     <!-- UIkit CSS -->
@@ -36,7 +36,7 @@
     </div>
                     
     <div class="uk-margin">
-        <button class="uk-button uk-button-default" type="submit">Login Button</button>
+        <button class="uk-button uk-button-default" type="submit">Login</button>
     </div>                
 
 </form>
@@ -51,5 +51,4 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.39/js/uikit-icons.min.js"></script>
 <script src="http://code.jquery.com/jquery-3.3.1.js"></script>                                                                                              
 </body>
-</html>
-    
+</html>    
