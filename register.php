@@ -45,15 +45,7 @@
         </div>
     </div>
 
-    <div class="uk-margin">        
-
-        <label class="uk-form-label" for="form-stacked-text-2">Password</label>
-        <div class="uk-form-controls">
-            <input class="uk-input" id="form-stacked-text-2" type="password" required="required" placeholder="Re-type Your Password">
-        </div>
-    </div>
-
-    <div class="uk-margin">
+       <div class="uk-margin">
         <button class="uk-button uk-button-default" type="submit">Register</button>
     </div>                
 
